@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt text](https://www.eff.org/files/2025/01/06/2025-member.png)
+<img src="https://www.eff.org/files/2025/01/06/2025-member.png" width="100">
 
 <!--
 **tw-smith/tw-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
